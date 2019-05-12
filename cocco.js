@@ -1,4 +1,3 @@
-var player = require('play-sound')(opts = {})
 const Discord = require('discord.js');
 const {
 	prefix,
@@ -136,7 +135,6 @@ function play(guild, song) {
 		});
 	dispatcher.setVolumeLogarithmic(serverQueue.volume / 5);
 	rand = (Math.floor(Math.random() * 31)+1)+'.mp3';
-	retu
 }
 
 client.login(token);
