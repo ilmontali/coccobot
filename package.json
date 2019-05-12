@@ -1,0 +1,27 @@
+{
+  "name": "cocco-bot",
+  "version": "1.0.0",
+  "description": "URLO!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "bot"
+  ],
+  "scripts":{
+   "start": "node cocco.js" 
+  },
+  "author": "Nicolò Montanari",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.29.1",
+    "play-sound": "1.1.3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "clientID": "576799051689885707",
+  "token": "NTc2Nzk5MDUxNjg5ODg1NzA3.XNbwdQ.Fj8E-9Cy2mSjaPATxB7HAtShqaU",
+
+  "name": "cocco-bot",
+  "version":"1.0.0",
+  "main":"bot.js",
+  "prefix": "!"
+}
