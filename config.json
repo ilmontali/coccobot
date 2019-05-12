@@ -4,6 +4,6 @@
 
   "name": "cocco-bot",
   "version":"1.0.0",
-  "main":"bot.js",
+  "main":"cocco.js",
   "prefix": "!"
 }
