@@ -1,0 +1,9 @@
+{
+  "clientID": "576947638671376407",
+  "token": "NTc2OTQ3NjM4NjcxMzc2NDA3.XNd6tQ.m8M4T086gRiQRscxOIZdsRs1CPU",
+
+  "name": "montayt-bot",
+  "version":"1.0.0",
+  "main":"index.js",
+  "prefix": ";;"
+}
