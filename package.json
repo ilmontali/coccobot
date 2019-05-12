@@ -2,7 +2,7 @@
   "name": "cocco-bot",
   "version": "1.0.0",
   "description": "URLO!",
-  "main": "index.js",
+  "main": "cocco.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,7 +21,5 @@
     "ffmpeg": "0.0.4",
     "ffmpeg-binaries": "^4.0.0",
     "opusscript": "0.0.6",
-    "ytdl-core": "^0.29.1",
-    "play-sound": "1.1.3"
   }
 }
