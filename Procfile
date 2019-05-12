@@ -1,1 +1,1 @@
-worker: node cocco.js
+web: node cocco.js
